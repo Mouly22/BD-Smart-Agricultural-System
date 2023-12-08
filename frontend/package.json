@@ -15,7 +15,7 @@
     "@mui/material": "^5.14.15",
     "@types/chart.js": "^2.9.40",
     "@types/react-router-dom": "^5.3.3",
-    "axios": "^1.5.1",
+    "axios": "^1.6.0",
     "chart.js": "^4.4.0",
     "hook": "^0.0.5",
     "react": "^18.2.0",
